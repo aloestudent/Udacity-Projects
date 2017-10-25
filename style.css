@@ -1,0 +1,32 @@
+*{
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.header {
+  font-size: 45px;
+  background-color: green;
+  color: white;
+}
+.section1 {
+  display: -webkit-flex;
+  display: flex;
+  box-sizing: border-box;
+
+}
+.pictures {
+  display: -webkit-flex;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 347px;
+
+}
+.history {
+  max-with: 347px;
+
+
+}
+.reasons {
+  max-width: 347px;
+}
